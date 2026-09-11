@@ -1,8 +1,3 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=600&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;Desenvolvedor+Front-End;Em+busca+do+Full-Stack+%E2%9A%A1" alt="Typing SVG">
-  </a>
-</div>
 
 # 👨🏻‍💻 Gustavo Policarpo
 
@@ -18,19 +13,7 @@ Tenho interesse em desenvolvimento web, criação de interfaces, lógica de prog
 
 ---
 
-<h3 align="left">🌐 Conecte-se comigo</h3>
-
-<a href="https://github.com/policarpogustavo">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://gustavopolicarpodev.com.br">
-  <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
-</a>
-
----
-
-<h3 align="left">💻 Minha Stack</h3>
+<h3 align="left">💻 Minhas Linguagens</h3>
 
 <img
   align="left"
