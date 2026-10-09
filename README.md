@@ -79,17 +79,6 @@ Todos os meus trabalhos, aulas, exercícios e projetos da FIAP reunidos em um s�
 
 ---
 
-## 🚀 Projetos pessoais
-
-| Projeto | Descrição | Links |
-|---|---|---|
-| **Recomeço** | Site de apoio para quem quer sair do vício em apostas, com entretenimento e ajuda psicológica. | [Repositório](https://github.com/policarpogustavo/recome-o_chegadeapostas) |
-| **Portfólio** | Meu site pessoal com meus projetos. | [Repositório](https://github.com/policarpogustavo/portfolio-policarpo) · [Site](https://gustavopolicarpodev.com.br) |
-| **Jogo de adivinhar o número** | Jogo simples em JavaScript para praticar lógica de programação. | [Repositório](https://github.com/policarpogustavo/Jogo-do-adivinhar-o-numero-main) |
-| **Curso Front-End (Alura)** | Projetos feitos durante os cursos de Front-End da Alura. | [Repositório](https://github.com/policarpogustavo/curso_front_alura) |
-
----
-
 ## 📊 GitHub Stats
 
 <div data-importer="stats" align="center">
