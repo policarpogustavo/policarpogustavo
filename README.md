@@ -82,7 +82,6 @@ Todos os meus trabalhos, aulas, exercícios e projetos da FIAP reunidos em um s�
 ## 📊 GitHub Stats
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=policarpogustavo&show_icons=true&theme=dracula&locale=pt-br" height="150" alt="stats graph" />
   <img src="https://raw.githubusercontent.com/policarpogustavo/policarpogustavo/languages-output/languages.svg" height="150" alt="languages graph" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=policarpogustavo&theme=dracula&locale=pt_BR" alt="GitHub Streak"/>
